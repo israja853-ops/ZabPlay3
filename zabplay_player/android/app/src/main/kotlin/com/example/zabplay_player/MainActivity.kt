@@ -1,5 +1,0 @@
-package com.example.zabplay_player
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity()
